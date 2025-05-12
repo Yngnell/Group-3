@@ -1,7 +1,0 @@
-git clone https://github.com/Yngnell/Group-3.git
-cd Group-3
-echo "Your Name" > Egana.txt
-git add Egana.txt
-git commit -m "Added Egana's file"
-git push -u origin main
-github.com
