@@ -1,5 +1,0 @@
-JOnnel Dagohoy > Dagohoy.txt
-git add Dagohoy.txt
-git commit -m first commmit
-git push origin main
-echo JOnnel Dagohoy
